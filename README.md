@@ -31,7 +31,7 @@
 
 
 # Set-up:
-1. fill everything in the Input folder
+1. Fill everything in the Input folder
 2. Edit the `config.json` if you want to add an api key
 3. Simply run the start.bat
 
