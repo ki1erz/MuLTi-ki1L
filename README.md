@@ -26,11 +26,14 @@
 
 
 
-
 # sHoWcAsE: 
 ![k1l](https://github.com/user-attachments/assets/cde497ca-779b-4179-8419-1b45c80f4312)
 
 
+# Set-up:
+1. fill everything in the Input folder
+2. Edit the `config.json` if you want to add an api key
+3. Simply run the start.bat
 
 
 
